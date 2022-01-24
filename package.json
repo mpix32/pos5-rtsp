@@ -1,0 +1,17 @@
+{
+  "name": "lajur1-pos5",
+  "version": "1.0.0",
+  "description": "aplikasi view stream cctv",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo Error : command "
+  },
+  "author": "taufiq ramdhoni",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-onvif": "^0.1.7",
+    "node-rtsp-stream": "^0.0.9",
+    "rtsp-relay": "^1.6.1"
+  }
+}
